@@ -1,8 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
 # Byte-compiled / optimized / DLL files
-flask_rest_api_tutorial
-.idea
+flask_rest_api_tutorial/
+.idea/
 __pycache__/
 *.py[cod]
 *$py.class
