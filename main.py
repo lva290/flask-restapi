@@ -76,9 +76,6 @@ class Video(Resource):
 
         return result
 
-    def delete(self, video_id):
-        del videos[video_id]
-        return '', 204
 
 
 api.add_resource(Video, "/video/<int:video_id>")
